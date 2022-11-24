@@ -1,0 +1,6 @@
+package com.lg.service;
+
+@Service
+public class MemberServiceImpl {
+
+}

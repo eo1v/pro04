@@ -1,0 +1,24 @@
+package com.lg.myapp;
+
+import static org.junit.Assert.fail;
+
+import org.junit.Test;
+
+import com.sun.org.slf4j.internal.Logger;
+import com.sun.org.slf4j.internal.LoggerFactory;
+
+public class JDBCCconn {
+		private static final Logger Logger = LoggerFactory.getLogger(HomeController.class);
+		static {
+			try {
+				Class.forName("oracle.jdbc.driver.OracleDriver");
+			}catch(Exception e) {
+				e.printStackTrace();
+			}
+		}
+	@Test
+	public void test() {
+		fail("Not yet implemented");
+	}
+
+}

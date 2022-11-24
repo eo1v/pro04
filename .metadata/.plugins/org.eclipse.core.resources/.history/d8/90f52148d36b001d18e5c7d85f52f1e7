@@ -1,0 +1,5 @@
+package com.lg.dao;
+
+public interface BoardDAO {
+	public List<BoadList>=new
+}

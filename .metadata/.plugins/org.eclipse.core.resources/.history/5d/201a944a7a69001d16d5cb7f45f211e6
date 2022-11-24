@@ -1,0 +1,7 @@
+package com.lg.service;
+
+public interface MembeService {
+	public List<MemberDTO> memberList() throws Exception;
+	public MemberDTO getMember(String id) throws Exception;
+	
+}

@@ -1,0 +1,87 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- 추가할부분 -->
+<meta http-equiv="X-UA-Compatible" content="ie=edge"> <!-- 추가할부분 -->
+
+</head>
+<body>
+
+	<h2>GET1 방식</h2>
+	<div>
+		<a href="./get1?id=admin&pw=1234">GET1</a>
+	</div>
+	
+	<h2>GET2 방식</h2>
+	<div>
+		<a href="./get2?id=admin&pw=1234">GET2</a>
+	</div>
+	
+	<h2>GET3 방식</h2>
+	<div>
+		<a href="./get3?id=admin&pw=1234">GET3</a>
+	</div>
+	
+	<h2>GET4 방식</h2>
+	<div>
+		<a href="./get4?id=admin&pw=1234">GET4</a>
+	</div>
+	
+	<h2>GET5 방식</h2>
+	<div>
+		<a href="./get5?id=admin&pw=1234">GET5</a>
+	</div>
+	
+	<h2>GET6 방식</h2>
+	<div>
+		<a href="./get6?id=admin&pw=1234">GET6</a>
+	</div>
+	
+	<h2>GET7 방식</h2>
+	<div>
+		<a href="./get7?id=admin&pw=1234">GET7</a>
+	</div>
+
+
+<!--	 	POST 방식			 -->
+	<h2>POST1 방식</h2>
+	<div>
+		<a href="./post1?id=admin&pw=1234">POST1</a>
+	</div>
+
+	<h2>POST2 방식</h2>
+	<div>
+		<a href="./post2?id=admin&pw=1234">POST2</a>
+	</div>
+	
+	<h2>POST3 방식</h2>
+	<div>
+		<a href="./post3?id=admin&pw=1234">POST3</a>
+	</div>
+	
+	<h2>POST4 방식</h2>
+	<div>
+		<a href="./post4?id=admin&pw=1234">POST4</a>
+	</div>
+	
+	<h2>POST5 방식</h2>
+	<div>
+		<a href="./post5?id=admin&pw=1234">POST5</a>
+	</div>
+	
+	<h2>POST6 방식</h2>
+	<div>
+		<a href="./post6?id=admin&pw=1234">POST6</a>
+	</div>
+	
+	<h2>POST7 방식</h2>
+	<div>
+		<a href="./post7?id=admin&pw=1234">POST7</a>
+	</div>
+	
+</body>
+</html>

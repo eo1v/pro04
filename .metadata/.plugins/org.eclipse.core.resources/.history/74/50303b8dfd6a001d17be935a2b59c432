@@ -1,0 +1,21 @@
+package com.lg.myapp;
+
+import org.junit.jupiter.api.Test;
+import org.junit.platform.commons.logging.LoggerFactory;
+import org.slf4j.Logger;
+
+import com.lg.dto.SampleDTO;
+
+class LombokTest {
+	private static final Logger logger = LoggerFactory.getLogger(LombokTest.class);
+	
+	@Test
+	public void testLombok() {
+		SampleDTO dto = new SampleDTO();
+		dto.setName("한시연");
+		dto.setAge("26");
+		
+		logger.info(dto.toString);
+	}
+
+}

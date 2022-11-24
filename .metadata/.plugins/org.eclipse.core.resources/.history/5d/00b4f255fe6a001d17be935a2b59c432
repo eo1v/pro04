@@ -1,0 +1,18 @@
+package com.lg.myapp;
+
+import org.junit.jupiter.api.Test;
+import org.junit.platform.commons.logging.LoggerFactory;
+import org.slf4j.Logger;
+
+import com.lg.dto.MemberDTO;
+
+public class DTOTest {
+	private static final Logger logger = (Logger) LoggerFactory.getLogger(LombokTest.class);
+	
+	@Test
+	public void testLombok() {
+		MemberDTO dto = new MemberDTO();
+		dto.setId("한시연");
+	}
+
+}

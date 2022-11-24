@@ -1,0 +1,13 @@
+package com.lg.dto;
+
+public class MemberDTO {
+	private String id;
+	
+	primary key,	
+	PW VARCHAR2(300) not null,	
+	NAME VARCHAR2(20) not null,
+	ADDR VARCHAR2(100),
+	TEL VARCHAR2(20) not null,
+	REGDATE	DATE default sysdate,
+	PT NUMBER
+}

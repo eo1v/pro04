@@ -1,0 +1,42 @@
+1669009093809	Copy package
+1669009103770	Copy package
+1669009107454	Move package
+1669009123912	Move package
+1669009477066	Delete element
+1669009674265	Delete element
+1669015196021	Delete element
+1669019890292	Delete element
+1669019949454	Delete element
+1669019988965	Delete element
+1669020590428	Delete element
+1669020595413	Delete element
+1669020623454	Delete element
+1669020721256	Delete element
+1669020724694	Delete element
+1669020727410	Delete element
+1669020775065	Delete element
+1669021025356	Rename type 'MemberService'
+1669080811928	Delete element
+1669080892806	Delete element
+1669086748476	Delete element
+1669086761338	Delete element
+1669183645422	Rename type 'JDBCCconn'
+1669183786071	Delete element
+1669184323553	Delete element
+1669186278791	Rename compilation unit 'SampleData.java'
+1669186646676	Encapsulate field 'name'
+1669186655835	Encapsulate field 'age'
+1669186659749	Encapsulate field 'id'
+1669187611464	Encapsulate field 'logger'
+1669266758796	Delete element
+1669267510285	Delete element
+1669268586290	Rename compilation unit 'MembeService.java'
+1669269684357	Delete element
+1669270124564	Delete element
+1669271319849	Move 'home.jsp' to 'webapp'
+1669271325437	Move 'message.properties' to 'webapp'
+1669271343617	Move 'home.jsp' to 'views'
+1669271346627	Move 'message.properties' to 'views'
+1669279198984	Rename type 'BoadDTO'
+1669279732501	Delete element
+1669280454541	Delete element

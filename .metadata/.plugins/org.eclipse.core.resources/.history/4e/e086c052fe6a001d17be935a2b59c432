@@ -1,0 +1,14 @@
+package com.lg.myapp;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.Test;
+
+class DTOTest {
+
+	@Test
+	void test() {
+		fail("Not yet implemented");
+	}
+
+}

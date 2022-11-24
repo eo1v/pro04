@@ -1,0 +1,7 @@
+package com.lg.dto;
+
+public class SampleData {
+	private String name;
+	private int age;
+	private double id;
+}

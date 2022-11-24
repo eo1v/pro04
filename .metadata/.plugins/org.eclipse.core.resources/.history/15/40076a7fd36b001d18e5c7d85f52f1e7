@@ -1,0 +1,6 @@
+package com.lg.dao;
+
+public interface BoardDAO {
+	public List<BoardDTO> boardList() throws Exception;
+	public BoardDTO boardDetail(int seq) throws Exception;
+}

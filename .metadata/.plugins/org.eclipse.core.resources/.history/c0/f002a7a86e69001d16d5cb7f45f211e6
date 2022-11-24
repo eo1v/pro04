@@ -1,0 +1,5 @@
+package com.lg.myapp.mapper;
+
+public interface TimeMapper {
+
+}

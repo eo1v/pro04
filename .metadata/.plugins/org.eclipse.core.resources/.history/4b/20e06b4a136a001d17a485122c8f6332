@@ -1,0 +1,15 @@
+package com.lg.myapp;
+
+import static org.junit.Assert.*;
+
+import org.junit.jupiter.api.Test;
+
+public class JDBCTest {
+	JDBCConn t1 = new JDBCConn;
+	
+	@Test
+	void test() {
+		fail("Not yet implemented");
+	}
+
+}

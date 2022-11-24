@@ -1,0 +1,5 @@
+package com.lg.myapp;
+
+public class JDBCCconn {
+
+}

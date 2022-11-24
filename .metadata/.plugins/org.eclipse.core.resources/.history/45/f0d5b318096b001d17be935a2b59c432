@@ -1,0 +1,10 @@
+package com.lg.dto;
+
+@Data
+public class BoadDTO {
+	private String title;
+	private String content;
+	private String nickname;
+	private String regdate;
+	private int visited;
+}

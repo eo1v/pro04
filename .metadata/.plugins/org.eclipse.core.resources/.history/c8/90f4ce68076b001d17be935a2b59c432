@@ -1,0 +1,11 @@
+package com.lg.controller;
+
+@Controller
+@RequestMapping("/board/*")
+public class BoardController {
+	
+	@GetMapping("list.do")
+	public String getBoardList(Model model) throws Exception{
+		
+	}
+}

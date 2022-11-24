@@ -1,0 +1,15 @@
+package com.lg.myapp.mapper;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.Test;
+
+class MybatisTest {
+
+	@Test
+	void test() {
+		fail("Not yet implemented");
+	}
+	
+
+}
